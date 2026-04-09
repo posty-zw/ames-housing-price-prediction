@@ -7,8 +7,7 @@
 ## 📌 Overview
 
 Built and refined a multiple linear regression model to predict residential sale prices using the open-source Ames Housing dataset. The analysis follows a full modelling pipeline — from exploratory analysis and preprocessing through to outlier handling, multicollinearity correction, log transformation, and stepwise variable selection.
-
-**Course:** Northeastern University  
+ 
 **Tools:** R, corrplot, MASS, car, RColorBrewer
 
 ---
